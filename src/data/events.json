@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Live Jazz Session",
+      "date": "July 5, 2024",
+      "time": "7:00 PM - 10:00 PM",
+      "description": "Swing by our coffee shop for an unforgettable live jazz session. Immerse yourself in the soulful melodies while savoring your favorite brew. Perfect for music lovers and coffee enthusiasts alike.",
+      "image": "../images/jazz.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bouquet Workshop",
+      "date": "July 7, 2024",
+      "time": "2:00 PM - 4:00 PM",
+      "description": "Learn the art of floral arrangements while enjoying a warm cup of coffee. Connect with fellow enthusiasts and take home your beautiful creations. All materials provided.",
+      "image": "/images/bouquet.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bring Your Puff",
+      "date": "July 15, 2024",
+      "time": "1:00 PM - 5:00 PM",
+      "description": "A fun-filled day with your furry friend at our coffee shop. Enjoy delicious coffee, socialize with other pet owners, and create wonderful memories. Special treats for pets available!",
+      "image": "/images/puff.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Flavor Preview",
+      "date": "July 28, 2024",
+      "time": "3:00 PM - 6:00 PM",
+      "description": "Be the first to taste our new coffee blends at the 'Flavor Preview' event. Experience unique flavors and provide feedback that will help shape our future offerings.",
+      "image": "/images/flavor.jpg"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "coffees": [
+    {
+      "id": 1,
+      "name": "Ethiopian Yirgacheffe",
+      "origin": "Ethiopia",
+      "price": 18.99,
+      "taste": "Floral, citrus, bergamot",
+      "description": "Light roasted single-origin coffee with delicate floral notes and bright acidity",
+      "image": "/images/coffee-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Colombian Supremo",
+      "origin": "Colombia",
+      "price": 16.99,
+      "taste": "Caramel, nuts, chocolate",
+      "description": "Medium roasted with sweet caramel notes and nutty undertones",
+      "image": "/images/coffee-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sumatra Mandheling",
+      "origin": "Indonesia",
+      "price": 17.99,
+      "taste": "Earthy, spicy, full-bodied",
+      "description": "Dark roasted with a rich, earthy flavor and low acidity",
+      "image": "/images/coffee-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Costa Rica Tarrazu",
+      "origin": "Costa Rica",
+      "price": 19.99,
+      "taste": "Honey, orange, balanced",
+      "description": "Medium roasted with honey sweetness and crisp citrus notes",
+      "image": "/images/coffee-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Guatemala Antigua",
+      "origin": "Guatemala",
+      "price": 18.99,
+      "taste": "Chocolate, spice, complex",
+      "description": "Medium-dark roasted with rich chocolate notes and subtle spices",
+      "image": "/images/coffee-5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kenya AA",
+      "origin": "Kenya",
+      "price": 20.99,
+      "taste": "Wine-like, berry, bright",
+      "description": "Medium roasted with wine-like acidity and berry sweetness",
+      "image": "/images/coffee-6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Brazil Santos",
+      "origin": "Brazil",
+      "price": 15.99,
+      "taste": "Nuts, chocolate, smooth",
+      "description": "Medium roasted with smooth nutty flavor and mild acidity",
+      "image": "/images/coffee-7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Jamaica Blue Mountain",
+      "origin": "Jamaica",
+      "price": 19.99,
+      "taste": "Clean, balanced, mild",
+      "description": "Medium roasted with perfectly balanced flavor and smooth finish",
+      "image": "/images/coffee-8.jpg"
+    }
+  ]
+} 
