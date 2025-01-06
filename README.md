@@ -1,8 +1,8 @@
-# React + Vite
+# Coffee Beanery 
+### Frontend only project (React + Tailwind)
+View Project: https://eugenek0529.github.io/Coffee-Beanery/ 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Coffee Beanery is a single-page website concept for an imaginary café, created to practice frontend development skills. Built using React and Tailwind CSS, this project helped me explore single-page application architecture and master responsive design with Tailwind's utility-first approach.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1095" alt="image" src="https://github.com/user-attachments/assets/3384f9fa-5f69-475b-ade8-7748dad272cc" />
