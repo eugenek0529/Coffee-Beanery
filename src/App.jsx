@@ -26,7 +26,8 @@ function App() {
         <Route path="/shop/:id" element={<ProductDetails />} />
         <Route path="/cart" element={<Cart />} />
       </Route>
-    )
+    ), 
+    { basename: '/Coffee-Beanery' }
   )
 
   return (
